@@ -1,4 +1,4 @@
-Upi Qr Generator Website - http://upiqrgenerator.s3-website-ap-southeast-2.amazonaws.com 
+Upi Qr Generator Website -
 # UPI QR Code Generator
 
 UPI QR Code Generator is a simple web application that allows users to generate QR codes for UPI (Unified Payment Interface) transactions.
@@ -11,7 +11,7 @@ UPI QR Code Generator is a simple web application that allows users to generate 
 
 ## Usage
 
-1. Visit the website: [https://ayushman542.github.io/upi-qr-code-generator/](https://ayushman542.github.io/upi-qr-code-generator/)
+1. Visit the website: http://upiqrgenerator.s3-website-ap-southeast-2.amazonaws.com 
 2. Enter the UPI ID of the recipient in the input field
 3. Click on the "Generate QR Code" button to generate the QR code
 4. Optionally, click on the "Download QR Code" button to download the generated QR code as an image file
